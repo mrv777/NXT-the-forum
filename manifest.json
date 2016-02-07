@@ -1,0 +1,9 @@
+{
+  "pluginVersion": 1,
+  "name": "The Forum",
+  "myVersion": "0.8.2",
+  "shortDescription": "A decentralized forum for the world",
+  "infoUrl": "https://github.com/mrv777/NXT-the-forum",
+  "startPage": "p_the_forum",
+  "nrsVersion": "1.7.4"
+}
